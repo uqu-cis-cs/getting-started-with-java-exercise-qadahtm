@@ -15,6 +15,6 @@ public class App
 {
     private static void mainMethod( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "Hello World! Thamir" );
     }
 }
